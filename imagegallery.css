@@ -1,0 +1,21 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    margin-left: 1.66%;
+    text-transform: uppercase;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+img {
+    float: left;
+    width: 30%;
+    height: auto;
+    margin: 1.66%;
+
+}
